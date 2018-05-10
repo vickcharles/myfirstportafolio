@@ -1,0 +1,42 @@
+body{
+font-family: "Open Sans", Arial, Helvetica, sans-serif;
+
+}
+.title{
+  color:rgb(82, 82, 82);
+}
+header{
+background-color: #f9f9f7;
+}
+.my-name{
+font-family: "Roboto";
+font-weight: 700;
+}
+
+.border{
+border: 1px solid black;
+}
+.alto{
+
+height: 357px;
+}
+
+.name-field{
+width: 70% !important;
+margin: 0 auto;
+
+}
+.proyects{
+width: 200px;
+height: 200px;
+margin: 10px;
+}
+.salmon{
+background-color: RGB(255, 160, 122)
+}
+img {
+position: relative;
+  height: 200px;
+  width: 200px;
+
+}
